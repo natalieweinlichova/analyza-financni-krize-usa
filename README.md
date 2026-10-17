@@ -5,7 +5,7 @@ Tento projekt vychází z mé bakalářské práce zpracované na Národohospod�
 ## O projektu
 Cílem práce bylo analyzovat vztah mezi růstem cen nemovitostí v USA v předkrizovém období 2000–2007 a intenzitou následného hospodářského poklesu během finanční krize v letech 2008–2009.
 
-Její empirická analýza pracuje s průřezovými daty na úrovni amerických okresů (counties) a zkoumá, zda oblasti s výraznějším předkrizovým růstem cen nemovitostí zaznamenaly během krize také hlubší zhoršení ekonomické aktivity měřené mírou nezaměstnanosti. 
+Její empirická část pracuje s průřezovými daty na úrovni amerických okresů (counties) a zkoumá, zda oblasti s výraznějším předkrizovým růstem cen nemovitostí zaznamenaly během krize také hlubší zhoršení ekonomické aktivity měřené mírou nezaměstnanosti. 
 
 ## Použitá data
 Data pocházejí z veřejně dostupných zdrojů amerických institucí, zejména:
